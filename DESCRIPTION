@@ -1,0 +1,11 @@
+Package: plotHarmonics
+Type: Package
+Title: Continuous Assumption Plots for Interaction Models
+Version: 0.1.0
+Author: Shane J. Sacco
+Maintainer: Shane J. Sacco <shane.sacco@uconn.edu>
+Description: Produces three visualizations of power, p-values, and interaction magnitude given created regions of the moderating variable.
+License: Limited
+Encoding: UTF-8
+LazyData: true
+
